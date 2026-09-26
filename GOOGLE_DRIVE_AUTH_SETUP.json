@@ -1,0 +1,10 @@
+{
+  "generated": true,
+  "source_archive": "Website 2.zip",
+  "note": "The source archive did not include the referenced JavaScript bundle or pages. A complete backend/template package was added without overwriting the existing UI.",
+  "generated_files": [
+    "google-apps-script/Code.gs",
+    "google-apps-script/README.md",
+    "google-apps-script/frontend-integration.js"
+  ]
+}
